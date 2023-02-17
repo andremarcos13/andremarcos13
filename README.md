@@ -8,8 +8,8 @@
 * 🎓  Formado em Engenharia de Produção pela <a href="https://portal.ufgd.edu.br/cursos/engenharia_producao/index">Universidade Federal do Mato Grosso do Sul</a>
       e no momento realizando a transição na carreira pela <a href="https://github.com/betrybe">Trybe</a>
 * 🌍  Mineiro morando no Mato Grosso do Sul
-* 🧠  Atualmente me aprofundando no BackEnd (e gostando muito!)
-* 🎮  Gosto muito de jogar World of Warcraft
+* 🧠  Atualmente me aprofundando em Python (e gostando muito!)
+* 🎮  World of Warcraft
 * ❤️  Amo conhecer e conversar com novas pessoas, fique a vontade para mandar uma msg!
 
 ## 💻 Tech Stack:
